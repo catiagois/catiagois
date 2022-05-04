@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @catiagois
-- 👀 I’m interested in  terminar meu trabalho
-- 🌱 I’m currently learning  
+oii! meu nome é Catia
+estudo no colégio Afonso
+so fiz essa conta no github para fazer trabalho do meu professor que vai me dar um 10.0 na materia de pensamento computacional
 
 <!---
 catiagois/catiagois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
